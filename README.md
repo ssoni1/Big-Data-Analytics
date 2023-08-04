@@ -1,3 +1,3 @@
-# Big-Data-Analytics
+# Miami-Housing-Price-Predictor-Using-Flask
 
-Assignments for Big Data analytics using pyspark and Databricks.
+
